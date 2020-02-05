@@ -1,0 +1,5 @@
+﻿  Game.cpp
+C:\Users\abc\source\repos\Backgammon\Game.cpp(32,11): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\abc\source\repos\Backgammon\Game.cpp(32,20): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\abc\source\repos\Backgammon\Game.cpp(744,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Backgammon.vcxproj -> C:\Users\abc\source\repos\Backgammon\Debug\Backgammon.exe
